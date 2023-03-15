@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome to the 주현s parade 👋
+
+- 박주현
+- 경성대학교 정보통신공학 졸업
+- 
+
+
 
 <!--
 **Park-JuHyeon/Park-JuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
