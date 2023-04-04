@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-JuHyeon&layout=compact)](https://github.com/jhe226/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-JuHyeon&langs_count=10&layout=compact&theme=dark)]
-
 
 ## Project List
 1. 미니 프로젝트
