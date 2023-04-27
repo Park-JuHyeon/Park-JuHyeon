@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 
 2. C# Wpf 영화검색앱
 
-<img
-src="https://raw.githubusercontent.com/Park-JuHyeon/pknu-wpf-2023/main/Images/movieFinder.gif" 
-width = "700">
+[영화 검색앱]()
 
 
 
