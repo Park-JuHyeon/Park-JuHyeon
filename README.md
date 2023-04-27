@@ -34,4 +34,12 @@ Here are some ideas to get you started:
 
 [미니프로젝트 Part1](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part1)
 
+2. C# Wpf 영화검색앱
+
+<img
+src="https://raw.githubusercontent.com/Park-JuHyeon/pknu-wpf-2023/main/Images/movieFinder.gif" 
+width = "700">
+
+
+
 
