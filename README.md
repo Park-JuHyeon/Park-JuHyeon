@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 2. C# Wpf 영화검색앱
 
-[영화 검색앱]()
+[영화 검색앱](https://github.com/Park-JuHyeon/pknu-wpf-2023)
 
 
 
