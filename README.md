@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 [미니프로젝트 Part1](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part1)
 
+[미니프로젝트 Part2](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part2)
+
 2. C# Wpf 영화검색앱
 
 [영화 검색앱](https://github.com/Park-JuHyeon/pknu-wpf-2023)
