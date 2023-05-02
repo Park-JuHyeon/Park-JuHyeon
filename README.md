@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ## Project List
 1. 미니 프로젝트
 
-## Python 활용 App제작
+#### Python 활용 App제작
 [미니프로젝트 Part1](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part1)
 
-## C# 활용 (
+#### C# 활용 (With Bogus)
 [미니프로젝트 Part2](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part2)
 
 2. C# Wpf 영화검색앱
