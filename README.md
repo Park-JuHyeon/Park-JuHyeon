@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 #### C# 활용 (With Bogus)
 [미니프로젝트 Part2](https://github.com/Park-JuHyeon/MiniProjects/tree/main/part2)
 
-2. C# Wpf 영화검색앱
+2. C# Wpf 영화검색앱, 관광지 검색
 
-[영화 검색앱](https://github.com/Park-JuHyeon/pknu-wpf-2023)
+[영화 검색앱, 부산 관광지 검색](https://github.com/Park-JuHyeon/pknu-wpf-2023)
 
 
 
