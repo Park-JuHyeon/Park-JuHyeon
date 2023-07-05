@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 
 [Bootstrap, Pinterest Page](https://github.com/Park-JuHyeon/pknu_ASPnet_2023)
 
+## 4. 팀 프로젝트 (스마트 캠퍼스)
 
+[WPF, PyQt : 학생관리시스템](https://github.com/Tarel-IoT-PK/Campus)
 
 
 
